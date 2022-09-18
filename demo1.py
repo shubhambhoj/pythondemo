@@ -21,3 +21,10 @@ def mul():
     print("multiplication",a)
 
 mul()
+
+
+def div():
+    divsion = 90/ 40
+    print(divsion)
+
+div()    
