@@ -8,3 +8,10 @@ def add():
     print("push first time")
 
 add()    
+
+
+def sub():
+    b = 50-10
+    print(b)
+
+sub()    
