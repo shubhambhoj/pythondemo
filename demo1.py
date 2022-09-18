@@ -14,4 +14,10 @@ def sub():
     b = 50-10
     print(b)
 
-sub()    
+sub()  
+
+def mul():
+    a = 30 * 20
+    print("multiplication",a)
+
+mul()
