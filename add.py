@@ -1,4 +1,3 @@
-a = 10
-b = 20 
-c = a + b 
-print("addition is -:,"c)
+x =lambda a,b : a+b
+
+print(x(10,20))
