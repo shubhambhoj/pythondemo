@@ -16,7 +16,6 @@ obj1 = String("Prakash",27)
 obj2 = String("Abhishek",24)
 
 obj1.show()
-print()
 obj2.show()
 print()
 obj2.show_variable()
