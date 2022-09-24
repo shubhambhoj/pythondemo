@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 class String:
     a = "class variable"
     b = "class variable1"
@@ -15,6 +12,10 @@ class String:
     @classmethod # decorator
     def show_variable(cls): # class method
         print(cls.a,cls.b)
-obj = String("Prakash",27)
+obj = String("Prakash",26)
+obj1 = String ("Abhishek",24)
+
+obj1.show()
+print()
 obj.show()
 
