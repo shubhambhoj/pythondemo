@@ -2,8 +2,9 @@ print("Hi, I'm digambar")
 
 
 def add():
-    a = 10 + 20
-    print("addition=",a)
+    a = int(input("Enter the 1st No -: "))
+    b = int(input("Enter the 2nd No -:" )) 
+    print(f"addition={a+b}")
     print("okk")
     print("push first time")
 
