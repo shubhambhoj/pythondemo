@@ -1,3 +1,4 @@
 x =lambda a,b : a+b
-
-print(x(10,20))
+a = int(input("Enter the 1st No -: "))
+b = int(input ("Enter the 2nd No -: "))
+print("Addition -:",x(a,b))
